@@ -1,5 +1,5 @@
 CMD
-cd.. C:\GnuWin32\bin
+cd C:\GnuWin32\bin
 
 flex scanner.l
 bison -d parser.y
